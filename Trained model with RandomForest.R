@@ -1,3 +1,9 @@
+#Author:Numan Ibne Asad
+#Project:"Microbial based predictive modeling"
+#Date:2022/10/01
+
+
+
 #Random Forest Regression
 library(rsample)      # data splitting 
 library(randomForest) # basic implementation
